@@ -1,0 +1,14 @@
+h1
+{
+  color: red;
+}
+
+
+.table-striped>tbody>tr:nth-child(2n+1)>th {
+        background-color: rgb(202, 169, 169);
+}
+
+
+.table-striped>tbody>tr:nth-child(n+2)>th {
+        background-color: rgb(111, 158, 223);
+}
